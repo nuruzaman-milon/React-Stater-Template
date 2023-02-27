@@ -23,6 +23,14 @@ For yarn:
 
 
 
+## Remove clone repository
+
+To remove default clone repository you need to run the following command in Git Bash
+
+```bash
+  rm -rf .git
+```
+
 ## Connect me
 
 To connect with me, just email at nuruzaman.milon@gmail.com
